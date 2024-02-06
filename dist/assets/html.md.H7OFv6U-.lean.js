@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,V as i}from"./chunks/framework.--NMbU3Q.js";const f=JSON.parse('{"title":"html 语义化","description":"","frontmatter":{},"headers":[],"relativePath":"html.md","filePath":"html.md"}'),a={name:"html.md"},o=i("",5),n=[o];function s(r,_,d,p,c,h){return l(),e("div",null,n)}const u=t(a,[["render",s]]);export{f as __pageData,u as default};
