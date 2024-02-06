@@ -14,3 +14,10 @@
 - 使用表格时，标题要用 caption，表头用 thead，主体部分用 tbody 包围，尾部用 tfoot 包围。表 头和一般单元格要区分开，表头用 th，单元格用 td
 - 表单域要用 fieldset 标签包起来，并用 legend 标签说明表单的用途
 - 每个 input 标签对应的说明文本都需要使用 label 标签，并且通过为 input 设置id 属性，在 lable 标签中设置 for=someld 来让说明文本和相对应的 input 关联起来
+
+## 新标签
+
+|标签|语意|
+|-|-|
+|article|定义文档内的文章|
+|aside|定义页面内容之外的内容|
